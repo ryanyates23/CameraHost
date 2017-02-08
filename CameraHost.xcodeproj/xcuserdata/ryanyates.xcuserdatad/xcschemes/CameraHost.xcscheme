@@ -63,11 +63,11 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "localhost"
+            argument = "169.254.64.94"
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = "51717"
+            argument = "12345"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
